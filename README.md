@@ -1,141 +1,167 @@
-# 🚀 My Data Engineering Journey
+# 🚀 Java Full-Stack Journey
 
-Documenting my 6-month transition from BCA graduate to Data Engineer.
+My 6-month journey from BCA graduate to a **Java Full-Stack Developer**.
 
-The goal is to build strong fundamentals, complete real-world projects, maintain a public GitHub portfolio, and become job-ready for an entry-level Data Engineering role.
+This repository documents my daily learning, coding practice, DSA preparation, projects, and progress toward becoming job-ready.
 
 ---
 
-## 📅 Progress Log
+## 🎯 Career Goal
 
-### Day 1 — September 9, 2026
+**Target Role:** Java Full-Stack Developer
 
-#### What I Learned
+### Core Stack
 
-* SQL `SELECT` and `FROM`
-* SQL `WHERE`
-* SQL `GROUP BY`
-* Aggregate functions such as `SUM()` and `COUNT()`
-* Basic SQL filtering and aggregation
-* Python lists
-* Python dictionaries
-* Python `for` loops
-* Python `if` conditions
-* Python string cleaning
-* Basic Git and GitHub workflow
-* Working with Git from the terminal
-* Running Python scripts using VS Code
+- ☕ Java
+- 🧠 DSA with Java
+- 🗄️ SQL / PostgreSQL
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🏗️ JPA / Hibernate
+- 🔐 Spring Security / JWT
+- 🅰️ Angular
+- 📘 TypeScript
+- 🐳 Docker
+- ☁️ Basic AWS
 
-#### Labs & Projects
+---
 
-* Created my first SQL practice queries.
-* Created a Python data-cleaning script: `data_cleaner.py`
-* Cleaned messy customer/user names using:
+# 📅 6-Month Roadmap
 
-  * `.strip()`
-  * `.replace()`
-  * `.title()`
-* Successfully executed the Python script locally.
-* Pushed the completed script to GitHub.
+## Month 1 — Java Fundamentals + DSA + SQL
 
-#### GitHub Workflow Practiced
+- Java syntax and fundamentals
+- Variables and data types
+- Operators
+- Conditions
+- Loops
+- Methods
+- Arrays
+- Strings
+- Basic problem solving
+- DSA fundamentals
+- SQL fundamentals
+
+**Status:** 🟢 In Progress
+
+---
+
+## Month 2 — OOP + Collections + DSA
+
+- Object-Oriented Programming
+- Classes and Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Exception Handling
+- Java Collections
+- ArrayList
+- LinkedList
+- HashMap
+- HashSet
+- Stack / Queue
+- DSA problem solving
+
+**Status:** ⏳ Upcoming
+
+---
+
+## Month 3 — Spring Boot + Backend
+
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- JPA
+- Hibernate
+- CRUD applications
+- API architecture
+- Exception handling
+- Validation
+- Backend project
+
+**Status:** ⏳ Upcoming
+
+---
+
+## Month 4 — Angular + Frontend
+
+- TypeScript
+- Angular fundamentals
+- Components
+- Services
+- Routing
+- Forms
+- HTTP Client
+- RxJS
+- API integration
+- Authentication UI
+
+**Status:** ⏳ Upcoming
+
+---
+
+## Month 5 — Full-Stack Projects
+
+- Connect Angular with Spring Boot
+- Authentication
+- JWT
+- Spring Security
+- Role-based authorization
+- Docker
+- Deployment
+- Full-stack projects
+
+**Status:** ⏳ Upcoming
+
+---
+
+## Month 6 — Interview Preparation
+
+- DSA interview problems
+- Java interview questions
+- Spring Boot interview questions
+- SQL interview questions
+- Angular interview questions
+- REST API concepts
+- Basic system design
+- Resume
+- GitHub portfolio
+- Job applications
+- Mock interviews
+
+**Status:** ⏳ Upcoming
+
+---
+
+# 📖 Progress Log
+
+## Day 1 — Java Fundamentals ✅
+
+### Topics Completed
+
+- [x] What is Java?
+- [x] JDK, JRE and JVM
+- [x] Java compilation and execution
+- [x] First Java program
+- [x] Variables
+- [x] Data types
+- [x] `System.out.println()`
+- [x] Arithmetic operators
+- [x] `Scanner`
+- [x] User input
+- [x] Comparison operators
+- [x] `if / else if / else`
+- [x] Integer division
+- [x] Remainder operator
+- [x] Basic problem solving
+
+### Day 1 Programs
 
 ```text
-git add
-    ↓
-git commit
-    ↓
-git push
+java/
+└── day-01/
+    ├── Student.java
+    └── Calculation.java
 ```
-
-#### Status
-
-**Day 1 — Complete ✅**
-
----
-
-### Week 2 — Python Fundamentals
-
-**Status: In Progress 🚧**
-
-Topics:
-
-* Lists & Dictionaries ✅
-* Loops ✅
-* Conditions ✅
-* Functions ✅
-* Function parameters ⏳
-* Return values ✅
-* JSON ⏳
-* CSV ⏳
-* Data-processing mini project ⏳
-
----
-
-## 🎯 6-Month Roadmap
-
-### Month 1 — Core Fundamentals
-
-* SQL
-* Python
-* Data Modeling
-
-### Month 2 — Data Warehousing & dbt
-
-* BigQuery / Snowflake
-* Data Warehousing
-* dbt
-
-### Month 3 — Developer Systems
-
-* Linux
-* Git
-* Docker
-
-### Month 4 — Cloud & Orchestration
-
-* AWS
-* S3
-* EC2
-* Apache Airflow
-
-### Month 5 — Big Data & Capstone
-
-* Apache Spark
-* PySpark
-* End-to-end Data Engineering pipeline
-
-### Month 6 — Job Preparation
-
-* SQL interview questions
-* Python interview questions
-* Data Engineering system design
-* Resume
-* LinkedIn
-* Applications
-* Mock interviews
-
----
-
-## 📊 Overall Progress
-
-| Phase       | Status         |
-| ----------- | -------------- |
-| Day 1 Setup | ✅ Complete     |
-| Week 1      | 🚧 In Progress |
-| Week 2      | 🚧 In Progress |
-| Month 1     | ⏳ Not Complete |
-| Month 2     | ⏳ Upcoming     |
-| Month 3     | ⏳ Upcoming     |
-| Month 4     | ⏳ Upcoming     |
-| Month 5     | ⏳ Upcoming     |
-| Month 6     | ⏳ Upcoming     |
-| Job Ready   | ⏳ Target       |
-
----
-
-## 🏁 Goal
-
-Build the skills and portfolio required to secure an entry-level Data Engineering position within 6 months.
-
-**Consistency → Practice → Projects → GitHub → Interviews → Job 🚀**
